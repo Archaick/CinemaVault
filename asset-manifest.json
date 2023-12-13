@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Archaick.io/cinema-vault/static/css/main.db903f2a.css",
-    "main.js": "/Archaick.io/cinema-vault/static/js/main.b22a2edb.js",
-    "index.html": "/Archaick.io/cinema-vault/index.html",
-    "static/media/search.svg": "/Archaick.io/cinema-vault/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
-    "main.db903f2a.css.map": "/Archaick.io/cinema-vault/static/css/main.db903f2a.css.map",
-    "main.b22a2edb.js.map": "/Archaick.io/cinema-vault/static/js/main.b22a2edb.js.map"
+    "main.css": "/CinemaVault/static/css/main.db903f2a.css",
+    "main.js": "/CinemaVault/static/js/main.a34eeae5.js",
+    "index.html": "/CinemaVault/index.html",
+    "static/media/search.svg": "/CinemaVault/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.db903f2a.css.map": "/CinemaVault/static/css/main.db903f2a.css.map",
+    "main.a34eeae5.js.map": "/CinemaVault/static/js/main.a34eeae5.js.map"
   },
   "entrypoints": [
     "static/css/main.db903f2a.css",
-    "static/js/main.b22a2edb.js"
+    "static/js/main.a34eeae5.js"
   ]
 }
